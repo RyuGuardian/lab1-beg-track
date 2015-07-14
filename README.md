@@ -13,3 +13,5 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 
 #### Resources and Collaborators
+Mozilla Developer Network and Google (which I think just led me to MDN).
+I also looked at other sites, like Stack Overflow, to figure out an error I was getting with Git, but it turned out I just misread an instruction and was inputting it in the command line incorrectly. Go figure.
